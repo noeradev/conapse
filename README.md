@@ -7,10 +7,10 @@
 Passively ingests chat streams · extracts structured long-term facts & relationship graphs via LLM · serves context summaries and prompts via Telegram Mini App
 
 ![status](https://img.shields.io/badge/status-concept-orange)
-![go](https://img.shields.io/badge/go-1.24+-00ADD8?logo=go&logoColor=white)
+![go](https://img.shields.io/badge/go-1.27+-00ADD8?logo=go&logoColor=white)
 ![next.js](https://img.shields.io/badge/next.js-16-black?logo=next.js)
 ![postgres](https://img.shields.io/badge/postgres-pgvector-4169E1?logo=postgresql&logoColor=white)
-![license](https://img.shields.io/badge/license-MIT-green.svg)
+![license](https://img.shields.io/badge/license-Non--Commercial-red.svg)
 
 </div>
 
@@ -76,7 +76,6 @@ It works as an asynchronous personal co-pilot that listens to messaging streams,
 
 ## License
 
-Copyright © 2026 Maxim Potapchenko.
+Copyright © 2026.
 
 This project is licensed under the **PolyForm Noncommercial License 1.0.0**. You are free to modify, inspect, and redistribute this software for personal and non-commercial purposes, provided that original copyright attribution is preserved. Commercial use, resale, or deployment as a paid managed service is strictly prohibited without explicit written consent from the author.
-```
